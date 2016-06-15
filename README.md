@@ -127,3 +127,11 @@ Contributing
 2. Make sure you write tests for new features or modify the existing ones if necessary
 3. Open a new _Pull Request_ from your feature branch to the `develop` branch.
 4. Thank you!
+
+
+I added two files (Giovanni Gatto)
+
+gTTSMulti.py (the module gtts with a "new" function saveTmp() to append mp3)
+coffee_enit.py (example of what I used it for)
+
+I made some changes, adding gTTSMulti.py in wich I put another function saveTmp() to append different languages to the same mp3. I used it in the coffe_enit.py file, that should explain how it works.
